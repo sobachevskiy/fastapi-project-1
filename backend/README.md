@@ -1,1 +1,2 @@
 - uv run ruff check . --fix
+- source .venv/bin/activate
