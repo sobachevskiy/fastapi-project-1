@@ -4,11 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 .venv/
-.env
 .python-version
 .pytest_cache
 pytest.xml
-.vscode
 
 # VS Code
 .vscode/
